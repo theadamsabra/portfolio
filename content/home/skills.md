@@ -25,7 +25,7 @@ subtitle = ""
   name = "R"  
 
 [[feature]]
-  icon = "matlab.png"
+  icon = "matlab"
   icon_pack = "custom"
   name = "MATLAB" 
 
