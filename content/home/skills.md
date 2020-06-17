@@ -27,7 +27,12 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics" 
+  name = "Statistics"
+
+[[feature]]
+  icon = "chart-network"
+  icon_pack = "fas"
+  name = "Machine Learning"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
