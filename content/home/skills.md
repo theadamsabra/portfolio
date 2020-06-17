@@ -25,12 +25,12 @@ subtitle = ""
   name = "R"  
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics"
 
 [[feature]]
-  icon = "chart-network"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Machine Learning"  
 
