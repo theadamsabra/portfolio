@@ -25,9 +25,9 @@ subtitle = ""
   name = "R"  
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Data Science"
 
 [[feature]]
   icon = "project-diagram"
