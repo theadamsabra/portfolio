@@ -25,6 +25,11 @@ subtitle = ""
   name = "R"  
 
 [[feature]]
+  icon = "matlab.png"
+  icon_pack = "custom"
+  name = "MATLAB" 
+
+[[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Data Science"
@@ -32,7 +37,12 @@ subtitle = ""
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
-  name = "Machine Learning"  
+  name = "Machine Learning"
+
+[[feature]]
+  icon = "connection"
+  icon_pack = "custom"
+  name = "Deep Learning"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
