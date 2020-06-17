@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Data Science Intern"
   company = "Penji"
   company_url = "https://www.penjiapp.com/"
-  location = "California"
+  location = "Remote"
   date_start = "2019-01-01"
   date_end = "2019-08-01"
 
