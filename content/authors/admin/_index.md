@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adam Sabra
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Researcher/Deep Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, music information retrieval, and source separation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Blind Source Separation
+- Music Information Retrieval
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Statistics - Machine Learning
+    institution: University of California, Davis
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adam Sabra is a Deep Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning in June, 2021. He specializes in musical analysis via signal processing and deep learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even get a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, listening to new music, or collecting vinyl records.
