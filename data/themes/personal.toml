@@ -5,7 +5,7 @@ name = "A Version of Rose"
 light = true
 
 # Primary
-primary = "rgb(245, 105, 122)"
+primary = "rgb(145, 54, 65)"
 
 # Menu
 menu_primary = "rgb(230, 242, 255)"
