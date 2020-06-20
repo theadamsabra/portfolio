@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Researcher/Deep Learning Engineer
+role: Undergraduate Researcher and Aspiring Deep Learning Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, music information retrieval, and source separation.
+bio: My research interests include machine learning, music information retrieval, and audio source separation.
 
 interests:
 - Deep Learning
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Adam Sabra is a Deep Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning in June, 2021. He specializes in musical analysis via signal processing and deep learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even get a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, listening to new music, or collecting vinyl records.
+Adam Sabra is a budding Deep Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning. He specializes in musical analysis via signal processing and deep learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even get a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, listening to new music, or collecting vinyl records.
