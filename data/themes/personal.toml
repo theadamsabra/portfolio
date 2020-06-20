@@ -2,7 +2,7 @@
 name = "A Version of Rose"
 
 # Is theme light or dark?
-light = true
+light = dark
 
 # Primary
 primary = "#000000"
