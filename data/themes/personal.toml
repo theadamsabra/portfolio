@@ -1,11 +1,11 @@
 # Theme metadata
-name = "Rose"
+name = "A Version of Rose"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "rgb(251, 191, 183)"
+primary = "rgb(251, 183, 211)"
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"

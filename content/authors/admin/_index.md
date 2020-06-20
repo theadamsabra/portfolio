@@ -21,9 +21,10 @@ bio: My research interests include machine learning, music information retrieval
 
 interests:
 - Deep Learning
+- Machine Learning
 - Blind Source Separation
 - Music Information Retrieval
-- Machine Learning
+
 
 education:
   courses:
