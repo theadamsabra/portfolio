@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Researcher and Aspiring Deep Learning Engineer
-
+role: Undergraduate Researcher
 # Organizations/Affiliations
 organizations:
 - name: University of California, Davis
