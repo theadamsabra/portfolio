@@ -40,8 +40,8 @@ subtitle = ""
   name = "Machine Learning"
 
 [[feature]]
-  icon = "connection"
-  icon_pack = "custom"
+  icon = "hubspot"
+  icon_pack = "fab"
   name = "Deep Learning"  
 
 # Uncomment to use emoji icons.
