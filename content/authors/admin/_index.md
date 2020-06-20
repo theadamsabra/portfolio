@@ -22,7 +22,7 @@ bio: My research interests include machine learning, music information retrieval
 interests:
 - Deep Learning
 - Machine Learning
-- Source Separation
+- Audio Source Separation
 - Music Information Retrieval
 
 
@@ -45,23 +45,19 @@ social:
   link: https://www.linkedin.com/in/adam-sabra/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: 'mailto:adam@asabra.com'
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Adam Sabra is a budding Deep Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning. He specializes in musical analysis via signal processing and deep learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even get a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, listening to new music, or collecting vinyl records.
+Adam Sabra is a budding Deep Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning. He specializes in musical analysis via signal processing and deep learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, listening to new music, or collecting vinyl records.
