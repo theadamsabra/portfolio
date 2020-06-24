@@ -6,6 +6,8 @@ math: true
 
 ## 1 - Exploratory Data Analysis
 
+The repository can be found [here](https://github.com/theadamsabra/Audio-Classifier).
+
 ### 1.1 - Loading in Data
 
 
