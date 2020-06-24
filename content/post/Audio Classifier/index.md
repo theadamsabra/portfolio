@@ -1,12 +1,7 @@
 ---
 title: "Audio Classifier"
 summary: "A supervised approach to classifying instruments."
-
-image:
-  placement: 1
-  caption: ""
-  focal_point: "Center"
-  preview_only: false
+math: true
 ---
 
 ## 1 - Exploratory Data Analysis
