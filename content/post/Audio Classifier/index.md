@@ -29,7 +29,7 @@ from sklearn.preprocessing import StandardScaler, Normalizer
 from sklearn.naive_bayes import GaussianNB
 ```
 
-We first see that the dataframe is simply 2 columns; the first being the name of the file and the second being the name of the instruemnt - which we will use as the labels in this classification problem.
+We first see that the dataframe is simply 2 columns; the first being the name of the file and the second being the name of the instrument - which we will use as the labels in this classification problem.
 
 
 ```python
