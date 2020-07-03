@@ -14,7 +14,7 @@ In this post is a tutorial along with code to develop a supervised audio classif
 import os
 import sys
 import numpy as np
-import eda
+import eda # Courtesy of Seth Adams
 import librosa
 import pandas as pd
 from python_speech_features import mfcc, logfbank
