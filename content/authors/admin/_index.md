@@ -20,8 +20,8 @@ organizations:
 bio: My research interests include machine learning, music information retrieval, and audio source separation.
 
 interests:
-- Machine Learning
 - Audio Source Separation
+- Machine Learning
 - Deep Learning
 - Music Information Retrieval
 
@@ -60,4 +60,4 @@ email: ""
 # - Visitors
 ---
 
-Adam Sabra is an aspiring Machine Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning. He specializes in musical analysis via signal processing and machine learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even a professorship down the line. If he's not developing his thesis or this website further, you can find Adam watching movies, collecting vinyl records, or hiking.
+Adam Sabra is an aspiring Machine Learning Engineer graduating from the University of California, Davis as a Statistics major with a track focus in Machine Learning. He specializes in musical analysis via signal processing and machine learning techniques to quantify and separate various aspects of a song such as drums, bass, horns, and even vocals. Adam's main goal is to use these skills to forge a career path in audio research and even a professorship down the line. If he's not developing his next project or this website further, you can find Adam watching movies, collecting vinyl records, or hiking.
