@@ -3,10 +3,9 @@ title: "Audio Classifier"
 summary: "A supervised approach to classifying instruments."
 math: true
 ---
+In this post is a tutorial along with code to develop a supervised audio classifier. The repository and more information about the data can be found [here](https://github.com/theadamsabra/Audio-Classifier).
 
 ## 1 - Exploratory Data Analysis
-
-The repository can be found [here](https://github.com/theadamsabra/Audio-Classifier).
 
 ### 1.1 - Loading in Data
 
