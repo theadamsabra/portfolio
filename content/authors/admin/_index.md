@@ -24,13 +24,13 @@ interests:
 - Machine Learning
 - Deep Learning
 - Music Information Retrieval
-
+- Audio Information Retrieval
 
 education:
   courses:
   - course: BSc in Statistics - Machine Learning
     institution: University of California, Davis
-    year: 2021 (expected)
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/in/adam-sabra/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adam@asabra.com'
+  link: 'mailto:aasabra@ucdavis.edu'
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
