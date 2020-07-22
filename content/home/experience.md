@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Calfornia, Davis"
   company_url = ""
   location = "California"
-  date_start = "2020-03-01"
+  date_start = "2020-05-01"
   date_end = ""
 
 [[experience]]
