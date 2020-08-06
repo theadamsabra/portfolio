@@ -39,6 +39,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/theadamsabra
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@theadamsabra
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adam-sabra/
