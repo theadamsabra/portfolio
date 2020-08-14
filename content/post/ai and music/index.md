@@ -1,5 +1,7 @@
-# AI, Automation, and Music
-## What does the technology mean for a new generation of artists?
+---
+title: AI, Automation, and Music
+subtitle: What does the technology mean for a new generation of artists?
+---
 
 *Everything mentioned below is my opinion and my opinion alone. Don’t agree with me or see something I mentioned differently? Leave a response and let’s talk about it!*
 

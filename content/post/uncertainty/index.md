@@ -1,5 +1,7 @@
-# The Uncertainty in the Machine Learning Job Hunt
-## It will always be with you. That doesn’t mean you won’t succeed.
+---
+title: The Uncertainty in the Machine Learning Job Hunt
+subtitle: It will always be with you. That doesn’t mean you won’t succeed.
+---
 
 ![image](pic1.jpg)
 
