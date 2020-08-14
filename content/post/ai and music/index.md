@@ -3,8 +3,9 @@ title: AI, Automation, and Music
 subtitle: What does the technology mean for a new generation of artists?
 ---
 
-![image](pic.jpg)
-*Photo by [Adrian Korte](https://unsplash.com/@adkorte?utm_source=medium&utm_medium=referral) on Unsplash(https://unsplash.com/?utm_source=medium&utm_medium=referral)*
+| ![image](pic.jpg) |
+|:--:| 
+| *Photo by [Adrian Korte](https://unsplash.com/@adkorte?utm_source=medium&utm_medium=referral) on Unsplash(https://unsplash.com/?utm_source=medium&utm_medium=referral)* |
 
 
 *Everything mentioned below is my opinion and my opinion alone. Don’t agree with me or see something I mentioned differently? Leave a response and let’s talk about it!*
