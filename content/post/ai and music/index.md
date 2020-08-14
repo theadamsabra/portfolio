@@ -3,6 +3,10 @@ title: AI, Automation, and Music
 subtitle: What does the technology mean for a new generation of artists?
 ---
 
+![image](pic.jpg)
+*Photo by [Adrian Korte](https://unsplash.com/@adkorte?utm_source=medium&utm_medium=referral) on Unsplash(https://unsplash.com/?utm_source=medium&utm_medium=referral)*
+
+
 *Everything mentioned below is my opinion and my opinion alone. Don’t agree with me or see something I mentioned differently? Leave a response and let’s talk about it!*
 
 The music industry is one of the domains that has yet to see a full fledged restructuring as a direct cause of AI. The transition towards streaming caused a significant restructure — one that happened to be in favor of the labels and streaming services as opposed to the artists who bring the consumers in the first place. AI and ML have helped streaming services with music recommendations and targeted advertisements, but these technologies have yet to change the way we listen to/create music. This will change and it will be soon.
