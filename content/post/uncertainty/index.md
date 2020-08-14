@@ -4,7 +4,6 @@ subtitle: It will always be with you. That doesn’t mean you won’t succeed.
 ---
 
 | ![image](pic1.jpg) |
-|:--:| 
 | *Photo by [Clément Falize](https://unsplash.com/@centelm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)* |
 
 In less than a year, I will be deemed worthy by my university of a Bachelors degree. In less than a year, I will be saying goodbye to the place I called home for the last 4 years. In less than a year, I will know where the next chapter of my life begins.
