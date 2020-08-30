@@ -24,6 +24,7 @@ interests:
 - Music Information Retrieval
 - Deep Learning
 - Machine Learning
+- Signal Processing
 
 education:
   courses:
