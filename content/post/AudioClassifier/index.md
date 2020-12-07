@@ -1,6 +1,7 @@
-# Building an Audio Classifier
-## Including Code and Procedure
-
+---
+title: How to Build an Audio Classifier
+subtitle: Using Classical Machine Learning to Classify Sounds
+---
 ## Introduction:
 
 The field of Machine Learning is rapidly expanding into nearly every field, be it through classical machine learning techniques - such as the ones used in this project - or deep learning techniques such as neural networks. This post aims to give an in-depth overview of the tools needed from a Statistician's perspective to develop classifiers in the audio space.
