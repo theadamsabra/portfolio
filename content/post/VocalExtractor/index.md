@@ -50,7 +50,7 @@ $$L(y,\hat{y}) = \lvert\lvert \hat{y} - y \rvert\rvert $$
 where $\hat{y} = f(x; \theta) x$.
 
 Notes during the training process:
-- Each Conv2D layer is batch normalized and has an activation layer of leaky rectified linear units with an $alpha = 0.2$
+- Each Conv2D layer is batch normalized and has an activation layer of leaky rectified linear units with an $\alpha = 0.2$
 
 - The deconvolution process possesses the same kernel size and stride. However, the activation layer is a standard rectified linear units and the first 3 deconvolution layers are followed by a 50% dropout rate. Dropout, as the name implies, drops a certain percentage of neurons of the network. The percentage is determined before the training process.
 
