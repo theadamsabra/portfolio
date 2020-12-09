@@ -4,7 +4,7 @@ subtitle: Using a U-Net Convolutional Neural Network to Extract Vocals from Song
 ---
 # Introduction
 
-The challenge of audio source separation has always been a challenging one for audio engineers. Audio source separation is often referred to as the cocktail party problem, where one is attending a cocktail party and honing in on one conversation among the dozens around them. This problem, for many years, was considered to be nearly impossible. However, with the optimization of Convolutional Neural Networks (CNN) (via. AlexNet,) the problem's solution approached with the new techniques that arose from neural networks. In this post, I aim to break down how to use a variant of the CNN on [DSD100](https://sigsep.github.io/datasets/dsd100.html) to extract the sounds provided by the dataset. [2]
+The challenge of audio source separation has always been a challenging one for audio engineers. Audio source separation is often referred to as the cocktail party problem, where one is attending a cocktail party and honing in on one conversation among the dozens around them. This problem, for many years, was considered to be extremely difficult. However, with the optimization of Convolutional Neural Networks (CNN)  - via AlexNet0 - the problem's solution approached with the new techniques that arose from this neural network. In this post, I aim to break down how to use a variant of the CNN on [DSD100](https://sigsep.github.io/datasets/dsd100.html) to extract the sounds provided by the dataset.
 
 ## About the Data Set
 
@@ -14,7 +14,7 @@ DSD100 [2] is a Deep Learning dataset that allows for researchers in the audio s
 
 ## Fast Fourier Transformation
 
-To process the data for relevant results, digital signal processing techniques must be used to extract meaningful features for the neural network to understand and recognize. These techniques are predominately Fourier-based spectrograms. The Fourier Transformation allows for us to mathematically decompose complex signals into their constituents. We examine the Fourier Transformation, more specifically, the Fast Fourier Transformation (FFT) which is used in Python:
+To process the data for relevant results, digital signal processing techniques must be used to extract meaningful features for the neural network to understand and recognize. These techniques are predominately Fourier-based spectrograms. The Fourier Transformation allows for us to mathematically decompose complex signals into their constituents. We examine the Fourier Transformation, more specifically, the Fast Fourier Transformation (FFT) which is used in Python [3]:
 
 $$ \hat x_k = \frac{1}{\sqrt{N}} \displaystyle\sum_{n=0}^{m-1} x_{2n} \omega_{m}^{nk} + \frac{\omega_N}{\sqrt{N}} \displaystyle\sum_{n = 0}^{m-1}x_{2n+1} \omega_{m}^{nk}$$
 
@@ -33,7 +33,7 @@ Here is a spectrogram of one of the songs of the dataset:
 
 ![png](spec.png)
 
-As you can see, the details of the song are have details to the granular level. This allows for increased accuracy and feature extraction while the CNN examines the song.
+As you can see, the details of the song can be extracted by the network at the granular level. This allows for increased accuracy and feature extraction while the CNN examines the song.
 
 # Building the U-Net Convolutional Network
 
@@ -52,7 +52,7 @@ where $\hat{y} = f(x; \theta) x$.
 Notes during the training process:
 - Each Conv2D layer is batch normalized and has an activation layer of leaky rectified linear units with an $\alpha = 0.2$
 
-- The deconvolution process possesses the same kernel size and stride. However, the activation layer is a standard rectified linear units and the first 3 deconvolution layers are followed by a 50% dropout rate. Dropout, as the name implies, drops a certain percentage of neurons of the network. The percentage is determined before the training process.
+- The deconvolution process possesses the same kernel size and stride. However, the activation layer is a standard rectified linear units and the first 3 deconvolution layers are followed by a dropout layer with a 50% rate. Dropout, as the name implies, drops a certain percentage of neurons of the network. The percentage is determined before the training process.
 
 #### ReLU (Rectified Linear Unit):
 
@@ -67,3 +67,5 @@ $$ f(x) = \max(\alpha x, x) $$
 [1] Jansson, A. et al. “Singing Voice Separation with Deep U-Net Convolutional Networks.” ISMIR (2017). https://pdfs.semanticscholar.org/83ea/11b45cba0fc7ee5d60f608edae9c1443861d.pdf
 
 [2]  Antoine  Liutkus,   Fabian-Robert  Stoter,   Zafar  Rafii,   Daichi  Kitamura,Bertrand  Rivet,  Nobutaka  Ito,  Nobutaka  Ono,  and  Julie  Fontecave.   The 2016  signal  separation  evaluation  campaign.   In  Petr  Tichavsky,  MassoudBabaie-Zadeh, Olivier J.J. Michel, and Nadege Thirion-Moreau, editors,La-tent Variable Analysis and Signal Separation - 12th International Confer-ence, LVA/ICA 2015, Liberec, Czech Republic, August 25-28, 2015, Pro-ceedings, pages 323–332, Cham, 2017. Springer International Publishing. https://sigsep.github.io/datasets/dsd100.html
+
+[3] Cooley, James W., and John W. Tukey, 1965, “An algorithm for the machine calculation of complex Fourier series,” Math. Comput. 19: 297-301. https://numpy.org/doc/stable/reference/generated/numpy.fft.fft.html
