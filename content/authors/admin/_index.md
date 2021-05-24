@@ -49,9 +49,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:aasabra@ucdavis.edu'
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
